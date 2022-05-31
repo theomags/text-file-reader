@@ -1,0 +1,13 @@
+/Users/macintosh/Projects/SearchEngine7.0/bin/Debug/netcoreapp3.1/SearchEngine7.0.deps.json
+/Users/macintosh/Projects/SearchEngine7.0/bin/Debug/netcoreapp3.1/SearchEngine7.0.runtimeconfig.json
+/Users/macintosh/Projects/SearchEngine7.0/bin/Debug/netcoreapp3.1/SearchEngine7.0.runtimeconfig.dev.json
+/Users/macintosh/Projects/SearchEngine7.0/bin/Debug/netcoreapp3.1/SearchEngine7.0.dll
+/Users/macintosh/Projects/SearchEngine7.0/bin/Debug/netcoreapp3.1/SearchEngine7.0.pdb
+/Users/macintosh/Projects/SearchEngine7.0/obj/Debug/netcoreapp3.1/SearchEngine7.0.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macintosh/Projects/SearchEngine7.0/obj/Debug/netcoreapp3.1/SearchEngine7.0.AssemblyInfoInputs.cache
+/Users/macintosh/Projects/SearchEngine7.0/obj/Debug/netcoreapp3.1/SearchEngine7.0.AssemblyInfo.cs
+/Users/macintosh/Projects/SearchEngine7.0/obj/Debug/netcoreapp3.1/SearchEngine7.0.csproj.CoreCompileInputs.cache
+/Users/macintosh/Projects/SearchEngine7.0/obj/Debug/netcoreapp3.1/SearchEngine7.0.dll
+/Users/macintosh/Projects/SearchEngine7.0/obj/Debug/netcoreapp3.1/SearchEngine7.0.pdb
+/Users/macintosh/Projects/SearchEngine7.0/obj/Debug/netcoreapp3.1/SearchEngine7.0.genruntimeconfig.cache
+/Users/macintosh/Projects/SearchEngine7.0/obj/Debug/netcoreapp3.1/SearchEngine7.0.csproj.AssemblyReference.cache
