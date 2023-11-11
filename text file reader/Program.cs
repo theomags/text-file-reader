@@ -20,7 +20,7 @@ namespace readFile
             
             //Opening text file specified by the user
             string text = System.IO.File.ReadAllText(filename);
-            foreach (string word in text.Split(' ')) //For loop to go through each word in the text taking into consideration the character space which sepertes the words
+            foreach (string word in text.Split(' ')) //A for loop to go through each word in the text taking into consideration the character space which sepertes the words
             {
                 if (words.ContainsKey(word))
                 {
